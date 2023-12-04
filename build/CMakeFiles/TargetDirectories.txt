@@ -1,3 +1,0 @@
-C:/Users/Amir/Documents/test/build/CMakeFiles/test.dir
-C:/Users/Amir/Documents/test/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/Amir/Documents/test/build/CMakeFiles/ZERO_CHECK.dir
